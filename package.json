@@ -1,8 +1,8 @@
 {
-  "name": "travel-site",
+  "name": "sandbox",
   "version": "1.0.0",
   "scripts": {
-    "dev": "webpack-dev-server",
+    "dev": "webpack",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
